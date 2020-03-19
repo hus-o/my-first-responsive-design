@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 232, 232);
+}
+.navColor{
+    border: 2px solid rgb(201, 201, 201);
+    border-bottom: none;
+}
+.nav-item{
+    padding-right:10%;
+    padding-left: 10%;
+    margin-left:5px;
+    margin-right:5px;
+    font-size: 20px;
+    color:black;
+}
+.imageMed{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+}
+p{
+    width:500px;
+    word-wrap: break-word;
+}
+.mg{
+    margin-top: 20px;
+}
