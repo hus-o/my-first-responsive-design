@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(255, 232, 232);
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    font-family: Lobster, cursive;
 }
 .navColor{
     border: 2px solid rgb(201, 201, 201);
@@ -14,13 +17,18 @@ body{
     color:black;
 }
 .imageMed{
-    width:300px;
-    height:300px;
+    width:250px;
+    height:250px;
     border-radius: 50%;
 }
 p{
-    width:500px;
+    width:600px;
+    background-color: #fff7e6;
     word-wrap: break-word;
+    font-family: Source+Sans+Pro, cursive;
+    -webkit-box-shadow: 0px 6px 22px -18px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 22px -18px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 22px -18px rgba(0,0,0,0.75);
 }
 .mg{
     margin-top: 20px;
